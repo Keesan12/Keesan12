@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vakeesan Mahalingam, CFA. My github handle is @Keesan12.
 
-- 👀 I’m interested in turning data into meaningful insights to make business and investment decisions using MS excel and tableau. 
+- 👀 I’m interested in turning data into meaningful insights to make business and investment decisions using MS excel and tableau. Strategic Planning and Strategy development, Investment Consulting, and Innovation Consulting are my forte at the moment. 
 
 - 🌱 I created this github repository to demonstrate and share my work, abilities, skillsets, models, dataviz, and other samples that demonstrate my abilities
 
