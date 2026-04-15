@@ -1,16 +1,14 @@
 - 👋 Hi, I’m Vakeesan Mahalingam, CFA. My github handle is @Keesan12.
 
-- 👀 I’m interested in turning data into meaningful insights to make business and investment decisions using MS excel and tableau. Strategic Planning and Strategy development, Investment Consulting, and Innovation Consulting are my forte at the moment. 
+- 👀 I always have crazy ideas and I like to build things and take them 0 to 1. 
 
-- 🌱 I created this github repository to demonstrate and share my work, abilities, skillsets, models, dataviz, and other samples that demonstrate my abilities
+- 🌱 I've founded 4 different startups in the last 6 years in verticals from web3 infrastructure, AI, consulting, eco-streetwear.
 
-- 👀 I love hot wings, fantasy sports, golfing, writing, trading, learning about web 3.0, metaverses, and predicting the future of macroeconomics.
+- 👀 I'm truly passionate about the future, what we can build in the age AI for humanity
  
-- 🌱 I’m currently learning SQL, Python, Tableau, and DeFi 
+- 🌱 Personal growth, exploring the unknown, building useful things, and reimagining the world are what I love to do when I'm not traveling. 
 
-- 💞️ I’m looking to do meaningful work using my skillset to simplify complexities, turn data in meaningful insights, and work with innovative companies 
-
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/vakeesanm/
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/vakeesanm/ or X at @cryptokeesan
 
 <!---
 Keesan12/Keesan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
